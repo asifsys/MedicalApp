@@ -1,0 +1,75 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build Results
+# =========================
+bin/
+obj/
+Debug/
+Release/
+
+# =========================
+# .NET Core / ASP.NET Core
+# =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Database / Local files
+# =========================
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Node (if frontend used)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+
+# =========================
+# Publish Output
+# =========================
+publish/
+wwwroot/dist/
+
+# =========================
+# Rider / VS Code (optional)
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
