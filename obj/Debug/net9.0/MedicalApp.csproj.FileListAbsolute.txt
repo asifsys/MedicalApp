@@ -137,3 +137,4 @@ C:\Projects\MedicalApp\obj\Debug\net9.0\refint\MedicalApp.dll
 C:\Projects\MedicalApp\obj\Debug\net9.0\MedicalApp.pdb
 C:\Projects\MedicalApp\obj\Debug\net9.0\MedicalApp.genruntimeconfig.cache
 C:\Projects\MedicalApp\obj\Debug\net9.0\ref\MedicalApp.dll
+C:\Projects\MedicalApp\obj\Debug\net9.0\MedicalApp.sourcelink.json
